@@ -17,8 +17,8 @@
  * -> }
  * 
  * -> int main(){
- * ->   int x; 
- *      // passing value in function -> actual parameter
+ * ->   int x; // actual parameter
+ *      // passing value (actual parameter) into the function
  * ->   change(x)
  * -> }
  * 

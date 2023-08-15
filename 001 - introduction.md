@@ -67,10 +67,10 @@ With C, you need to manage all of it by your hand.
 
 * Bolean Operators
     * `and` / `not` / `or` versus `&&` `!` `||`
-* C for loops are **indeterminant** (i.e no `for ... in` ni C)
+* C for loops are **indeterminant** (i.e no `for ... in` in C)  
   You have to loop over the items using countable term  
-  for (int i = 0; i <= 10; i++) {} **loop over 10 times**
-* C has no pre-defined True or False
+  `for (int i = 0; i <= 10; i++) {}` **loop over 10 times**
+* C has no pre-defined `True` or `False`
 * `None` and `NULL` are similiar concepts but quite different
     * `None` in python is its own `Type`, It's like "**Mark Empty**"
     * `Null` is number 0, it cast to be a pointer to nothing

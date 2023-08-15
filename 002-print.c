@@ -1,4 +1,9 @@
-
+// include standard io header, this is a header file that contain some 
+// functionality for input and output operation.
+// if you include this stdio header, it will imports different variables, macros
+// and funciton to perform input and output operation.
+// https://www.scaler.com/topics/stdio-h-in-c/ 
+// 
 # include <stdio.h> 
 
 // I am a comment
@@ -27,6 +32,7 @@ int main(){
  *  - Embedded format in printf statement
  *    This embeded format code is telling the printf statement that there's 
  *    correlated argument of each, in this case the number in the second argument
+ *    of printf() function.
  *    
  *    Embedded format is start by % 'percent' follows by type-pre-definer, in this
  *    case `d` is represent of decimal(integer number) that we want to convert

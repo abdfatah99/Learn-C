@@ -5,7 +5,7 @@ int main(){
      * include with the data type of the variable */
     int usf, euf;
 
-    printf("Enter US Floor\n");
+    printf("Enter US Floor: ");
     scanf("%d", &usf); // call by reference
     euf = usf - 1;
     printf("EU Floor %d\n", euf);

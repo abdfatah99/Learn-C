@@ -38,7 +38,7 @@ What does Pointer mean?
 */
 
 /*
-This function extected int * (integer of pointers)
+This function expected int * (integer of pointers)
 */
 void changeByReference(int *num){
     (*num) +=10;
