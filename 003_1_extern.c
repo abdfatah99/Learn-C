@@ -1,0 +1,1 @@
+float external_value = 20.0;
